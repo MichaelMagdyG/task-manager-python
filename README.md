@@ -106,10 +106,7 @@ Enter the task ID to delete: 1
 🗑️ Task deleted successfully!
 ```
 
-## License
-
-This project is open-source and available under the MIT License.
-
-## Author
-
-MichaelMikhail
+## Screenshots
+<div align="center">
+  <img src="Screenshot%202024-11-27%20163939.jpg" alt="task Manager Python Screenshot">
+</div>
